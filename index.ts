@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer"
-import chalk, { Chalk } from "chalk"
+import chalk from "chalk"
  
 const quiz:{
     question_1: string;
